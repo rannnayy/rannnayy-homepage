@@ -73,7 +73,6 @@ const Home = () => {
           href="/files/CVRani-PhDApplication.pdf"
           target="_blank"
           rel="noopener noreferrer"
-          locale={false}
         >
           <Square size="40px" bg="white" color="black" padding={0}>
             <Text fontSize="x-large">CV</Text>

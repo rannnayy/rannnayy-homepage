@@ -23,7 +23,6 @@ const TypewriterText = ({ text = '' }: HelperTypewriterText) => {
           strings: text,
           autoStart: true,
           loop: true,
-          pauseFor: 3000,
         }}
       />
     </Grid>
