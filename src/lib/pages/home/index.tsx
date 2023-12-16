@@ -47,10 +47,10 @@ const Home = () => {
         paddingTop={0}
         textAlign="center"
       >
-        Hi! I&aposm Rani, a senior Computer Science undergraduate researcher{' '}
+        Hi! I&apos;m Rani, a senior Computer Science undergraduate researcher{' '}
         <br />
         at Bandung Institute of Technology. <br />
-        I&aposm currently applying for a Ph.D. in systems. <br />
+        I&apos;m currently applying for a Ph.D. in systems. <br />
         Reach me through <Link href="mailto:rani.api3939@gmail.com">email</Link>
         .
       </Text>
